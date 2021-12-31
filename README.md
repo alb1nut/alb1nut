@@ -1,8 +1,13 @@
 -👋 Hi, I’m @Albert
+
 -👀 I’m interested in coding
+
 -🌱 I’m currently learning Flutter and Node JS
+
 -💞️ I’m looking to collaborate on projects
+
 -📫 How to reach me albertnutifafa@gmail.com
+
 
 <!--
 **alb1nut/alb1nut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

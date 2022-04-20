@@ -1,4 +1,4 @@
--👋 Hi, I’m Albert Nutifafa DOvlo
+-👋 Hi, I’m Albert Nutifafa Dovlo
 
 -👀 I’m a Mobile(Flutter and Dart) and Front-End Developer
 

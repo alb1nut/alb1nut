@@ -1,8 +1,8 @@
--👋 Hi, I’m @Albert
+-👋 Hi, I’m Albert Nutifafa DOvlo
 
--👀 I’m interested in coding
+-👀 I’m a Mobile(Flutter and Dart) and Front-End Developer
 
--🌱 I’m currently learning Flutter and Node JS
+-🌱 I’m currently learning React
 
 -💞️ I’m looking to collaborate on projects
 

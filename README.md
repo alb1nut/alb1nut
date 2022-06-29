@@ -19,7 +19,9 @@
 </h1>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    
 </div>
+   <hr>
     </div>
  
 ### :woman_technologist: About Me :
@@ -32,12 +34,15 @@
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Albert-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albert-nutifafa-dovlo-b7ab9979/)
-- 
+- :zap: I’m looking to collaborate on projects
+
+- :zap: How to reach me albertnutifafa@gmail.com
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="center">
+<div >
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="60"/>&nbsp;
@@ -50,7 +55,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="60"/>
 </div>
 
--👋 Hi, I’m Albert Nutifafa Dovlo
+
+### :fire: My Stats :
+<!-- <div align="center"> -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alb1nut&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- </div> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alb1nut&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- -👋 Hi, I’m Albert Nutifafa Dovlo
 
 -👀 I’m a Mobile(Flutter and Dart) and Front-End Developer
 
@@ -58,7 +70,7 @@
 
 -💞️ I’m looking to collaborate on projects
 
--📫 How to reach me albertnutifafa@gmail.com
+-📫 How to reach me albertnutifafa@gmail.com -->
 
 
 <!--

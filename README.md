@@ -28,7 +28,7 @@
    I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
   
   
-  - :telescope: I’m working as a Software Engineer and building to frontend web applications.
+  - :telescope: I’m working as a Software Engineer and building  frontend web applications.
 
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
